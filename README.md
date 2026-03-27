@@ -52,7 +52,7 @@ Create, test, and distribute Claude skills — from a 5-minute draft to a self-c
 - Rubric-based grading with PASS/FAIL criteria
 - Anti-pattern extraction from real failures
 
-Based on [https://github.com/anthropics/skills/blob/main/skills/skill-creator/scripts/package_skill.py](url) and adapted to Lil Zain's version.
+Based on [package_skill.py](https://github.com/anthropics/skills/blob/main/skills/skill-creator/scripts/package_skill.py) and adapted to Lil Zain's version.
 
 ---
 
