@@ -60,7 +60,7 @@ Create, test, and distribute Claude skills — from a 5-minute draft to a self-c
 
 **Claude Code:** Copy the skill folder to `~/.claude/skills/`. Claude auto-discovers it and uses it when relevant, or you can invoke it directly with `/<skill-name>`.
 
-Each zip contains `SKILL.md` at the top level (plus any reference files the skill needs). No nesting — just upload and go.
+Each zip contains `SKILL.md` at the top level (plus any reference files the skill needs). 
 
 ## License
 
