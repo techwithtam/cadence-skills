@@ -13,8 +13,9 @@ A collection of skills for Claude Chat, Cowork, and Claude Code. Built at [Caden
 ### Claude Code
 ```bash
 git clone https://github.com/techwithtam/cadence-skills.git
-cp -r cadence-skills/skills/<skill-name> ~/.claude/skills/
+cp -r cadence-skills/skills/<skill-name> ~/.claude/skills/<skill-name>
 ```
+Claude Code auto-discovers skills from `~/.claude/skills/`. Each skill needs its own folder with a `SKILL.md` inside. After copying, Claude will load it automatically when relevant, or you can invoke it with `/<skill-name>`.
 
 ---
 
