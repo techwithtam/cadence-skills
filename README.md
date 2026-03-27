@@ -6,8 +6,8 @@ A collection of skills for Claude Chat, Cowork, and Claude Code. Built at [Caden
 
 ### Claude Chat / Cowork
 1. Go to [**Releases**](https://github.com/techwithtam/cadence-skills/releases) and download the `.zip` for the skill you want
-2. In Claude → **Projects** → create or open a project
-3. Upload the `.zip` to **Project Knowledge**
+2. In Claude → **Customize** (in the navigation bar) → **Skills**
+3. Click the **+** button and upload the `.zip`
 4. Start chatting
 
 ### Claude Code
@@ -56,11 +56,11 @@ Create, test, and distribute Claude skills — from a 5-minute draft to a self-c
 
 ## How Skills Work in Claude
 
-**Claude Chat / Cowork:** Upload a `.zip` to Project Knowledge. Claude reads the `SKILL.md` and any reference files automatically. The skill stays active for all chats in that project.
+**Claude Chat / Cowork:** Go to **Customize** → **Skills** → click **+** → upload the `.zip`. The skill is now available across all your chats. Claude uses it automatically when relevant.
 
-**Claude Code:** Copy the skill folder to `~/.claude/skills/`. Claude discovers it automatically and uses it when relevant, or you can invoke it directly with `/skill-name`.
+**Claude Code:** Copy the skill folder to `~/.claude/skills/`. Claude auto-discovers it and uses it when relevant, or you can invoke it directly with `/<skill-name>`.
 
-Each zip contains `SKILL.md` at the top level (plus any reference files). No nesting, no extra folders — just upload and go.
+Each zip contains `SKILL.md` at the top level (plus any reference files the skill needs). No nesting — just upload and go.
 
 ## License
 
