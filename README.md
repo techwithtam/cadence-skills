@@ -1,6 +1,6 @@
 # Cadence Skills
 
-A collection of skills for Claude Chat, Cowork, and Claude Code. Built at [Cadence](https://choosecadence.com), inspired by [cc-viz](https://github.com/zm2231/cc-viz).
+A collection of skills for Claude Chat, Cowork, and Claude Code. Built at [Cadence](https://choosecadence.com).
 
 ## Install a Skill
 
